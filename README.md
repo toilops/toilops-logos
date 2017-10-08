@@ -10,13 +10,13 @@ We're a hard working collaborative group of developers and system engineers crea
 The design work was graciously developed by [Justice Aranda](https://github.com/Justicimo).
 
 ##### ToilOps Logo [svg](Logo/ToilOpsLogo.svg)
-[![toilops logo](Logo/ToilOpsLogo.svg)]
+![toilops logo](Logo/ToilOpsLogo.svg)
 
 ##### ToilOps Logo [png](Logo/ToilOpsLogox60.png)
-[![toilops logo png](Logo/ToilOpsLogox60.png)]
+![toilops logo png](Logo/ToilOpsLogox60.png)
 
 ##### ToilOps Cog [png](Cog/toilOpsCog250x.png)
-[![toilops cog](Cog/toilOpsCog250x.png)]
+![toilops cog](Cog/toilOpsCog250x.png)
 
 ##### ToilOps Cog [svg](Cog/toilOpsCog.svg)
-[![toilops cog](Cog/toilOpsCog.svg)]
+![toilops cog](Cog/toilOpsCog.svg)
